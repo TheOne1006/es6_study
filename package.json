@@ -1,0 +1,18 @@
+{
+  "name": "es6_study",
+  "version": "1.0.0",
+  "description": "ES6 标准入门 练习",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-cli": "^6.5.1",
+    "babel-eslint": "^5.0.0",
+    "babel-preset-es2015": "^6.5.0",
+    "babel-register": "^6.5.2",
+    "eslint": "^2.2.0"
+  }
+}
